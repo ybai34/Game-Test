@@ -1,3 +1,3 @@
 # Game-Test
 
-Game design test programming by C#
+Game designing test programmed by C#
