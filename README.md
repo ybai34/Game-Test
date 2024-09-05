@@ -1,3 +1,3 @@
 # Game-Test
 
-Game designing test programmed by C#. Used for godot engine.
+Game designing test shaders and scripts programmed by C#. Used for godot engine.
